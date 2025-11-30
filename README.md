@@ -65,7 +65,7 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 ### 📞 Murojaat uchun
 
 <p align="center">
-  <a href="https://t.me/saidxooja" target="_blank">
+  <a href="https://t.me/saidoxjaaa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   
@@ -73,7 +73,7 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://github.com/saidxooja" target="_blank">
+  <a href="https://github.com/saidoxja" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
